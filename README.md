@@ -30,7 +30,7 @@ Dsoyayı indirin ve sitenize ekleyin.
 👤 **serhanyamand**
 
 * Youtube: https://www.youtube.com/channel/UCYfguXG4mfgfmLhACJkVPlA
-* Website: http://beastprofile.tr.ht
+* Website: http://serhanyamand.tr.ht
 * Github: [@serhanyamand](https://github.com/serhanyamand)
 
 
