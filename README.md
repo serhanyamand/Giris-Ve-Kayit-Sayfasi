@@ -29,14 +29,15 @@ Dsoyayı indirin ve sitenize ekleyin.
 
 👤 **serhanyamand**
 
-* Youtube: https://www.youtube.com/channel/UCYfguXG4mfgfmLhACJkVPlA
-* Website: http://serhanyamand.tr.ht
+* Youtube: https://www.youtube.com/@serhanyamand
+* Website: http://simseksmm.com
 * Github: [@serhanyamand](https://github.com/serhanyamand)
 
 
 ## Bize Destek Ol
 
 Bize bir ⭐️ verip bize destek olabilirsin.
+Maddi bir destek sunmak istiyorsan. -> buymeacoffee.com/serhanyamand
 
 
 
